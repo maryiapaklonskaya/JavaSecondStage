@@ -2,39 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93f13672-2108-4dc4-9b34-bcebcf6f5079" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced_Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassWork/InClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritence/Inheritence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritence/Market/ENUMS/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritence/Market/Market.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritence/Market/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritence/Market/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KnightGame/BlackKnight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RoadAndTransport/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RoadAndTransport/Management.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RoadAndTransport/Road.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RoadAndTransport/Transport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shapes/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shapes/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shapes/IFourAngeledShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shapes/ITriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shapes/Kite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shapes/Parallelogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shapes/Rhombus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shapes/RoundedShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shapes/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shapes/ThreeDimenshionalShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shapes/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shapes/iParallelogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Encapsulation/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Encapsulation/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritence/Market/ENUMS/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ENUMS/Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritence/Market/Market.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritence/Market/Market.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritence/Market/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritence/Market/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +41,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Advanced_Java" />
@@ -120,6 +92,18 @@
       <option name="presentableId" value="Default" />
       <updated>1667840578601</updated>
     </task>
+    <task id="LOCAL-00001" summary="new java course - advanced">
+      <created>1668450255236</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668450255237</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new java course - advanced" />
+    <option name="LAST_COMMIT_MESSAGE" value="new java course - advanced" />
   </component>
 </project>

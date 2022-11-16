@@ -53,7 +53,7 @@
 ////        Main class called 'Market'
 //
 //package Inheritence.Market;
-//import Inheritence.Market.ENUMS.Gender;
+//import ENUMS.Gender;
 //
 //import java.time.LocalDate;
 //import java.util.Arrays;

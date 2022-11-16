@@ -1,4 +1,4 @@
-package Inheritence.Market.ENUMS;
+package ENUMS;
 
 public enum Gender {
     MALE,
