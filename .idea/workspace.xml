@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93f13672-2108-4dc4-9b34-bcebcf6f5079" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ClassWork/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ContractExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ENUMS/Type.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Encapsulation/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Encapsulation/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritence/Market/ENUMS/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ENUMS/Gender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritence/Market/Market.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritence/Market/Market.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritence/Market/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritence/Market/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KnightGame/BlackKnight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnightGame/BlackKnight.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -41,7 +44,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Advanced_Java" />
@@ -99,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668450255237</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new java course - advanced">
+      <created>1668628183604</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668628183604</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

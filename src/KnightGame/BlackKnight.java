@@ -99,6 +99,46 @@ public class BlackKnight {
         return this.name;
     }
 
+    public static Integer getArms() {
+        return arms;
+    }
+
+    public static Integer getLegs() {
+        return legs;
+    }
+
+    public static Integer getHead() {
+        return head;
+    }
+
+    public static Boolean getAlive() {
+        return alive;
+    }
+
+    @Override
+    public boolean equals (Object o){
+        if(this == o) return true; //check for self
+        if(o == null || getClass() != o.getClass()) return false;
+        BlackKnight knight = (BlackKnight) o;
+
+        return (arms == knight.getArms()) &&
+                (legs == knight.getLegs()) &&
+                (head == knight.getHead()) &&
+                (alive == knight.getAlive()) &&
+                (name.toLowerCase().equals(knight.getName().toLowerCase()));
+    }
+
+    @Override
+    public int hashCode(){
+        int result = 31 * (name.toLowerCase().hashCode() +
+                ((Integer) arms).hashCode() +
+                ((Integer) legs).hashCode() +
+                ((Integer) head).hashCode() +
+                ((Boolean) alive).hashCode());
+
+        return result;
+    }
+
 
 
 

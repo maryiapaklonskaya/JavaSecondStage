@@ -15,8 +15,6 @@ public class User {
     private LocalDate dob;
     private Gender gender;
 
-    class User
-
     public void setName(String name) {
         this.name = name;
     }
