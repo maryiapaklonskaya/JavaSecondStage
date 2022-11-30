@@ -3,12 +3,12 @@ package KnightGame;
 import java.lang.reflect.Array;
 import java.util.Scanner;
 
-public class BlackKnight {
+public class BlackKnight implements Comparable<BlackKnight> {
     private static Integer arms = 2;
     private static Integer legs = 2;
     private static Integer head = 1;
     private static Boolean alive = true;
-    private static String name;
+    private String name;
 
     public static int numOfAliveKnights = 0;
     public static int numOfDeadKnights = 0;
@@ -139,7 +139,11 @@ public class BlackKnight {
         return result;
     }
 
+    @Override
+    public int compareTo(BlackKnight knight){
+        return this.name.charAt(0) - knight.getName().charAt(0);
 
+    }
 
 
 

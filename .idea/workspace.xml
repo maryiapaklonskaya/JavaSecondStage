@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93f13672-2108-4dc4-9b34-bcebcf6f5079" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ClassWork/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ContractExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/HashSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ENUMS/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompareSort/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompareSort/UserComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UsersAndSales/Sales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UsersAndSales/User1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Encapsulation/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Encapsulation/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collections/MapExample.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/KnightGame/BlackKnight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KnightGame/BlackKnight.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,11 +108,19 @@
       <option name="project" value="LOCAL" />
       <updated>1668628183604</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="collections, comparison">
+      <created>1669663999640</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669663999641</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new java course - advanced" />
-    <option name="LAST_COMMIT_MESSAGE" value="new java course - advanced" />
+    <MESSAGE value="collections, comparison" />
+    <option name="LAST_COMMIT_MESSAGE" value="collections, comparison" />
   </component>
 </project>
