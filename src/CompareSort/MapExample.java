@@ -96,24 +96,24 @@ public class MapExample {
         System.out.println(Arrays.toString(arr22));
 
         int[] arr111 = new int[]{1, 5, 3, 8, 2, 6, 0};
-        Arrays.sort(arr111, new Comparator<int>(){
-        });
+//        Arrays.sort(arr111, new Comparator<int>(){
+//        });
         System.out.println(Arrays.toString(arr22));
 
         //COLLECTIONS
 
-        List<String> list1 = Collections.emptyList();
-        List<String> list2 = Collections.singletonList(); //only 1 element
-        List<Integer> list3 = Arrays.asList(new Integer[]{1, 4, 5, 7, 3, 34,1}).emptyList();
-        Collections.min(list3);
-        Collections.min(list3, Collections.reverseOrder());
-        Collections.max(list3);
-        Collections.reverseOrder();
+//        List<String> list1 = Collections.emptyList();
+//        List<String> list2 = Collections.singletonList(); //only 1 element
+//        List<Integer> list3 = Arrays.asList(new Integer[]{1, 4, 5, 7, 3, 34,1}).emptyList();
+//        Collections.min(list3);
+//        Collections.min(list3, Collections.reverseOrder());
+//        Collections.max(list3);
+//        Collections.reverseOrder();
 
-        Map<Integer, String> map1 = Collections.emptyMap();
-        Map<Integer, String> map2 = Collections.singletonMap();
-        Set<Integer> set1 = Collections.emptySet();
-        list1.add("add string");
+//        Map<Integer, String> map1 = Collections.emptyMap();
+//        Map<Integer, String> map2 = Collections.singletonMap();
+//        Set<Integer> set1 = Collections.emptySet();
+        //list1.add("add string");
 
 
 
